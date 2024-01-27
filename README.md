@@ -20,4 +20,7 @@ apt install zabbix-server-pgsql zabbix-frontend-php php7.4-pgsql zabbix-apache-c
 
 ![Снимок экрана от 2024-01-27 21-55-12](https://github.com/beast86m/zabbix/assets/47268167/f3f279e3-22d6-41ce-a210-d2232b6d5b6e)
 
+![Снимок экрана от 2024-01-27 22-04-46](https://github.com/beast86m/zabbix/assets/47268167/3a9b94a9-c604-4d49-92c3-df360043867f)
+
+![Снимок экрана от 2024-01-27 22-07-14](https://github.com/beast86m/zabbix/assets/47268167/1bdacf4b-efea-4647-aa30-7364182d28cd)
 
