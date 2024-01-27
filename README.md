@@ -32,5 +32,6 @@ apt install zabbix-server-pgsql zabbix-frontend-php php7.4-pgsql zabbix-apache-c
 **Задание 3**
 
 ![image](https://github.com/beast86m/zabbix/assets/47268167/d24a77b7-60f5-4c2a-90dd-9b83c023a187)
+![image](https://github.com/beast86m/zabbix/assets/47268167/30765a46-9b53-4e18-a94e-28c30c9269a2)
 
 
